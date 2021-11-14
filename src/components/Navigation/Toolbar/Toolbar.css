@@ -24,6 +24,7 @@
     height: 80%;
 }
 
+/* hide toolbar */
 @media (max-width: 499px) {
     .DesktopOnly {
         display: none;
